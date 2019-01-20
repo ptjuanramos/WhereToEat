@@ -1,0 +1,11 @@
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\bin\Debug\netcoreapp2.1\TestingZoomatoAPI.deps.json
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\bin\Debug\netcoreapp2.1\TestingZoomatoAPI.runtimeconfig.json
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\bin\Debug\netcoreapp2.1\TestingZoomatoAPI.runtimeconfig.dev.json
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\bin\Debug\netcoreapp2.1\TestingZoomatoAPI.dll
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\obj\Debug\netcoreapp2.1\TestingZoomatoAPI.csprojAssemblyReference.cache
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\obj\Debug\netcoreapp2.1\TestingZoomatoAPI.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\obj\Debug\netcoreapp2.1\TestingZoomatoAPI.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\obj\Debug\netcoreapp2.1\TestingZoomatoAPI.AssemblyInfo.cs
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\bin\Debug\netcoreapp2.1\TestingZoomatoAPI.pdb
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\obj\Debug\netcoreapp2.1\TestingZoomatoAPI.dll
+C:\Users\User01\source\repos\WhereToEat\TestingZoomatoAPI\obj\Debug\netcoreapp2.1\TestingZoomatoAPI.pdb
