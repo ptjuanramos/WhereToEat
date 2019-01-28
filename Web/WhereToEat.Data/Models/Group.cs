@@ -15,8 +15,8 @@ namespace WhereToEat.Data.Models
         [Required]
         public string Name { get; set; }
 
-        public List<Guid> Admins { get; set; }
+        public List<User> Admins { get; set; }
 
-        public List<Guid> Members { get; set; }
+        public List<User> Members { get; set; }
     }
 }
